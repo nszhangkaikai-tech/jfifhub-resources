@@ -1,0 +1,4 @@
+extension,accepted_by_jfifhub,output_choices,quality_choices,processing,batch_behavior
+.jfif,yes,.jpg or .jpeg,Highest 100% / High 95% / Smaller 85%,Browser-local; no upload required,Multiple selected or dropped files are converted and can be downloaded together
+.jfi,yes,.jpg or .jpeg,Highest 100% / High 95% / Smaller 85%,Browser-local; no upload required,Multiple selected or dropped files are converted and can be downloaded together
+.jif,yes,.jpg or .jpeg,Highest 100% / High 95% / Smaller 85%,Browser-local; no upload required,Multiple selected or dropped files are converted and can be downloaded together
